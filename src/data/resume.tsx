@@ -74,7 +74,7 @@ export const DATA = {
   work: [
     {
       company: "LOC Software",
-      href: "https://atomic.finance",
+      href: "https://locsoftware.com/",
       badges: [],
       location: "Laval, QC",
       title: "Software QA Analyst",
