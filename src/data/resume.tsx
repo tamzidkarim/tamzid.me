@@ -109,12 +109,12 @@ export const DATA = {
         "Led development for Sohopathi's ed-tech platform, managing a team of 3-4 junior developers. Built a web platform and two mobile apps, one for students and one for mentors, which contributed to winning the prestigious Bangabandhu Innovation Grant (1 million BDT). Developed backend microservices for key functionalities, including User, QnA, Exam, Course, Billing, and shared libraries used across all applications. Focused on scalability, seamless integration, and user experience.",
     },
     {
-      company: "Paradynamix LLC",
-      href: "https://paradynamix.com/",
+      company: "Paradynamix",
+      href: "https://paradynamix",
       badges: [],
       location: "Ohio, US",
       title: "Software Engineer",
-      logoUrl: "/paradynamix.png",
+      logoUrl: "",
       start: "December 2019",
       end: "November 2020",
       description:
